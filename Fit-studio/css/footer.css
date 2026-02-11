@@ -9,18 +9,18 @@
    text-align: center;
 }
 
-.footer-top{
+.footer__top{
    padding-bottom: 40px;
    margin-bottom: 40px;
    border-bottom: 1px solid #d3cbd9;
 }
 
-.footer-logo{
+.footer__logo{
    display: inline-block;
    margin-bottom: 40px;
 }
 
-.menu ul {
+.footer__menu ul {
 display: -webkit-box;
 display: -ms-flexbox;
 display: flex;
@@ -36,7 +36,7 @@ margin: 0;
 padding: 0;
 }
 
-.menu a {
+.footer__menu a {
    font-weight: 400;
 font-size: 16px;
 line-height: 130%;
@@ -46,11 +46,11 @@ color: #535755;
 transition: color 0.2s;
 }
 
-.menu a:hover{
+.footer__menu a:hover{
     color: #3596ed;
 }
 
-.copyright{
+.footer__copyright{
    font-weight: 400;
 font-size: 14px;
 letter-spacing: 0.04em;
@@ -59,7 +59,7 @@ color: #858e8a
 
 
 @media(max-width: 768px){
-   .menu ul{
+   .footer__menu ul{
    -webkit-box-orient: vertical;
    -webkit-box-direction: normal;
        -ms-flex-direction: column;

@@ -92,7 +92,7 @@ color: #fff;
   margin-bottom: 140px;
 }
 
-.title-large{
+.faq__title-large{
   max-width: 600px;
   margin-bottom: 40px;
    font-weight: 600;
@@ -103,7 +103,7 @@ color: #fff;
 color: #2c332f;
 }
 
-.title-medium{
+.faq__title-medium{
    font-family: Oswald, sans-serif;
   font-weight: 500;
 font-size: 24px;
@@ -112,7 +112,7 @@ text-transform: uppercase;
 color: #2c332f
 }
 
-.article-title-medium{
+.article__title-medium{
 font-size: 36px;
 }
 
