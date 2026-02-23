@@ -149,4 +149,5 @@ transition: color var(--transition-time);
 
 .hero__details-icon{
     stroke:currentColor;
+    fill: none;
 }
